@@ -1,0 +1,14 @@
+C:\Users\umuto\source\repos\StajTakip\StajTakip\bin\Debug\StajTakip.exe.config
+C:\Users\umuto\source\repos\StajTakip\StajTakip\bin\Debug\StajTakip.exe
+C:\Users\umuto\source\repos\StajTakip\StajTakip\bin\Debug\StajTakip.pdb
+C:\Users\umuto\source\repos\StajTakip\StajTakip\obj\Debug\StajTakip.csprojAssemblyReference.cache
+C:\Users\umuto\source\repos\StajTakip\StajTakip\obj\Debug\StajTakip.Form1.resources
+C:\Users\umuto\source\repos\StajTakip\StajTakip\obj\Debug\StajTakip.Properties.Resources.resources
+C:\Users\umuto\source\repos\StajTakip\StajTakip\obj\Debug\StajTakip.csproj.GenerateResource.cache
+C:\Users\umuto\source\repos\StajTakip\StajTakip\obj\Debug\StajTakip.csproj.CoreCompileInputs.cache
+C:\Users\umuto\source\repos\StajTakip\StajTakip\obj\Debug\StajTakip.exe
+C:\Users\umuto\source\repos\StajTakip\StajTakip\obj\Debug\StajTakip.pdb
+C:\Users\umuto\source\repos\StajTakip\StajTakip\obj\Debug\StajTakip.Form2.resources
+C:\Users\umuto\source\repos\StajTakip\StajTakip\obj\Debug\StajTakip.Form3.resources
+C:\Users\umuto\source\repos\StajTakip\StajTakip\obj\Debug\StajTakip.Form5.resources
+C:\Users\umuto\source\repos\StajTakip\StajTakip\obj\Debug\StajTakip.Form6.resources
